@@ -16,11 +16,12 @@ Projeto "Construindo sexy APIs usando arquitetura serverless" elaborado no Bootc
 ## [](#technology):rocket: Technology
 -  Express — A web framework for Node.js
 -  Bull — Premium Queue package for handling distributed jobs
+-  MongoDB - NoSql Database
 
 ## [](#prerequisites):ballot_box_with_check: Prerequisites
 -   [Node.js](https://nodejs.org/en/)
 -   [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/pt-BR/docs/install)
-- [Redis](https://redis.io/)
+-   [MongoDB](https://www.mongodb.com)
 
 ## [](#getting-started):up: Getting started
 
